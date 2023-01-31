@@ -32,3 +32,5 @@
   - Possible useful package for controlling the create 3 robot
 18) https://github.com/grwells/UofI_AdvRobotics
   - More examples of iRC3 usage
+19) https://github.com/iRobotEducation/irobot-edu-python-sdk
+  - iRobot education python SDK
