@@ -29,3 +29,6 @@
 16) https://docs.ros.org/en/humble/
   - ROS2 Humble docs
 17) https://github.com/ilarioazzollini/create3_control
+  - Possible useful package for controlling the create 3 robot
+18) https://github.com/grwells/UofI_AdvRobotics
+  - More examples of iRC3 usage
