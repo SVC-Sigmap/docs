@@ -24,3 +24,7 @@
   - Example of WiFi heatmap generation
 14) https://github.com/Nischay-Pro/wifi-heat-mapper
   - WiFi heat mapping library
+15) https://docs.ros.org/en/galactic/
+  - ROS2 Galactic Docs
+16) https://docs.ros.org/en/humble/
+  - ROS2 Humble docs
