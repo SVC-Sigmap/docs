@@ -34,7 +34,7 @@ Function Header:
           Description
           MYTYPE MyFunctionParam2
           Description
-  Returns: MYRETUNTYPE
+  Returns: MYRETURNTYPE
            Description
 -------------------------------------------------------------------*/
 ```
