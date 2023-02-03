@@ -34,3 +34,6 @@
   - More examples of iRC3 usage
 19) https://github.com/iRobotEducation/irobot-edu-python-sdk
   - iRobot education python SDK
+20) Python Flask
+  - https://blog.logrocket.com/receive-webhooks-python-flask-or-django/
+  - https://auth0.com/blog/developing-restful-apis-with-python-and-flask/
